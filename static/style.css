@@ -35,7 +35,7 @@ body{
 .image p{
     font-family: 'Merienda', cursive;
     font-size: 20px;
-    background: -webkit-linear-gradient(#eee, #333);
+    background: -webkit-linear-gradient(red, #5fc406,red,#5fc406,rgb(226, 80, 105));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
